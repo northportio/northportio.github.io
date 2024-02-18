@@ -25,7 +25,7 @@ I'm Alec Dobler, owner of a tech company that services small and medium business
 ## Organizations/Entities I Support
 - [ITDRC - Information Technology Disaster Resource Center](https://www.itdrc.org)
     - After natural disasters strike, the most important thing is being able to let your loved-ones know that you are okay and safe. ITDRC provides communications and internet connectivity in areas that have been hard hit by natural disasters. They not only provide people activity to their loved ones, but also resources on how to rebuild and recover.
-- [EFF - Electronic Frontier Foundation](eff.org)
+- [EFF - Electronic Frontier Foundation](https://eff.org)
     - The EFF is focused on defending digital privacy, free speech, and innovation in our increasingly technological world. 
-- [CISA - Cybersecurity and Infrastructure Security Agency](cisa.gov)
+- [CISA - Cybersecurity and Infrastructure Security Agency](https://cisa.gov)
     - Many may not agree on what the government is doing a good job at, but there is one agency that many industry professionals respect and utilize as resource. CISA Is an agency that looks out for not only Governments of all sizes, but also many businesses that we've come to rely on. They work with many well-respected, cyber security firms, and put out notices, notifying the broader IT community on the threats that are actively being used in the wild. 
