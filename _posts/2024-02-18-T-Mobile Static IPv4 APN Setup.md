@@ -2,8 +2,8 @@
 layout: post
 title: "T-Mobile Static IPv4 APN Setup"
 date: 2024-02-18 20:00:00 -0500
-categories: Cellular Service
-tags: cellular,t-mobile,static ip,apn,ios,ipados,router
+categories: Cellular
+tags: cellular t-mobile static-ip apn ios ipados router
 ---
 
 
