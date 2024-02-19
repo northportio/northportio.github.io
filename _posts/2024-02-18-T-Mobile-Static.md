@@ -6,7 +6,6 @@ categories: cellular
 tags: cellular tmobile staticip apn ios ipados router
 ---
 
-# T-Mobile Static IPv4 APN Setup
 Getting a static IPv4 address can be a great thing. You can open up services on your firewall to communicate with your 
 specific IPv4 addresses in situations where a VPN will not cut it like VoIP/SIP. You can also forward ports to
 a cellular router ([GL-iNet GL-X750](https://www.gl-inet.com/products/gl-x750/)). 
