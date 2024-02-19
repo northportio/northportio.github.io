@@ -28,7 +28,7 @@ Following these steps will NOT get you a static IP!***
  - The APN to get a Static IPv4 address is `b2b.static`
  - On iOS, you don't normally see the option to input an APN so you will have to create a profile using Apple Configurator 2 with the configuration below or install one from [here](https://github.com/northportio/T-Mobile-Static-IPv4/releases/tag/latest)
  
- ![APN Config](https://github.com/northportio/T-Mobile-Static-IPv4/blob/main/APN/apnconfig.png)
+ ![APN Config](https://github.com/northportio/T-Mobile-Static-IPv4/raw/main/APN/apnconfig.png)
  
  5. Check your IP
  - You can google `what is my ip` or go to a reliable site such as [ifconfig.tv](https://ifconfig.tv) and your new IPv4 address should be displayed
