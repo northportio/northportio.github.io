@@ -2,8 +2,8 @@
 layout: post
 title: "Comma.ai OpenPilot with a 2023 Ford Escape"
 date: 2024-04-30 21:00:00 -0500
-categories: self-driving
-tags: self-driving ai ford adas
+categories: driving
+tags: driving ai ford adas car
 ---
 
 # Enabling Autonomous Driving With The Comma 3X for a 2023 Ford Escape
