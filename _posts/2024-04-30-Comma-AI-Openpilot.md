@@ -54,7 +54,7 @@ Trim Panels removed/moved slightly:
 - B-Pillar Trim: To run USB-C behind headliner
 - Rear-View Mirror Trim: To run USB-C cable to 3X on windshield
 
-![Right Lower Loadspace Trim](https://media.discordapp.net/attachments/539096103468007424/1225198431568527511/SCR-20240403-pein.jpeg?ex=6632b6f5&is=66316575&hm=b5b4c12db907b16655da1c74cb69c12dbb4ec8ed6637473b70a427d0cc8e79e7&=&format=webp&width=1988&height=1322)
+![Right Lower Loadspace Trim](/assets/img/web/loadspace.webp)
 
 For more on the install, see [this discord thread](https://discord.com/channels/469524606043160576/539096103468007424/1225198431312679126)
 
