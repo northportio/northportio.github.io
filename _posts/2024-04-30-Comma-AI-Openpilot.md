@@ -29,10 +29,10 @@ First off, the [#ford](https://discord.com/channels/469524606043160576/539096103
 
 ### 🚨 You will need to temporarily remove the rear seatbelt (which is integrated into the airbag system so best practice is to remove power from the car during the install) 🚨 
 Remove the 13mm bolt that is grounded to the chassis to the left (**_DO NOT REMOVE THE SCREW FROM THE TERMINAL... THE TERMINAL BOLT WILL EASILY BREAK and a replacement is ~$150 USD_**)
-![Battery Terminal](https://media.discordapp.net/attachments/539096103468007424/1225198432315117679/SCR-20240403-pgmk.png?ex=6632b6f5&is=66316575&hm=f1ebf28aa727773ac0082b6a89b6a4d62dbf9f47d42a0e8a8f819f72c943cb5a&=&format=webp&quality=lossless&width=1936&height=1240)
+![Battery Terminal](/assets/img/web/battery.webp)
 
 For 2023, Ford relocated the Image Processing Module (IPMA) from the rear view mirror trim area to just under the right trunk window... behind the trim. The below image includes the Q4 harness:
-![23 Escape IPMA Location](https://media.discordapp.net/attachments/539096103468007424/1225198433061699674/IMG_0466.jpeg?ex=6632b6f5&is=66316575&hm=4048f0ff3781a3e6c8eaad89512bcca329366f98e73f82d71919c08c7e1e562c&=&format=webp&width=1762&height=1322)
+![23 Escape IPMA Location](/assets/img/web/IPMA.webp)
 As a result of this, third-party parts are needed to install with the increased distance (These are _**NOT**_ affiliate links):
 
 - [Monoprice SlimRun Cat6 20ft](https://a.co/d/1rpjkyc): The ethernet cable that comes included is not long enough. I use these cables all the time at work and selected this one specifically because the slim cable is easy to route behind the bottom door-sill trim panel pieces from the OBD2 port to the harness in the trunk area.
