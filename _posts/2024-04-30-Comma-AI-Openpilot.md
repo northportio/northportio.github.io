@@ -5,7 +5,7 @@ date: 2024-04-30 21:00:00 -0500
 categories: driving
 tags: driving ai ford adas car
 image:
-  path: /assets/img/web/openpilot.png
+  path: /assets/img/web/openpilot.jpg
 ---
 
 # Enabling Autonomous Driving With The Comma 3X for a 2023 Ford Escape
