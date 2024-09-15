@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Home Assistant Fire/EMS Alert Automation"
-date: 2024-09-14 20:00:00 -0400
+date: 2024-09-14 18:00:00 -0400
 categories: homeassistant
 tags: fire ems tones automation alerts python homeassistant homekit lights
 image:
