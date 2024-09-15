@@ -16,7 +16,7 @@ Many volunteer first responders know that getting to a call as quickly and smoot
 There are a couple ways of going about this:
 1. Leveraging an API
    - Some (not all) departments leverage an iOS/Android application to alert members of a call. This way, Home Assistant can constantly check that API for changes. However, not all apps have an API for members. This also requires an internet connection, so if the power, cloud, or internet is out, the automation will not work.
-2. Levraging the same radio communications the pager already listens to
+2. Leveraging the same radio communications the pager already listens to
    - This can be a bit more complex, however, is the most reliable in internet, cloud, and power outages (if you have a home generator).
 
 I decided to go with option 2.
@@ -266,4 +266,4 @@ Add the following line to run the script at reboot:
 
 By following the steps above, you should have a working system that listens for specific tones and triggers a webhook to your Home Assistant instance when those tones are detected. This setup leverages the capabilities of the RTL-SDR dongle and the processing power of your Raspberry Pi to create a custom alerting system for your fire department pages.
 
-Once you have this done, you can configure an automation to do whatever you like. You can even add the function to only perform the operation when you mark yourself as on duty with home Assistant via a virtual switch.
+Once you have this done, you can configure an automation to do whatever you like. You can even add the function to only perform the operation when you mark yourself as on duty with Home Assistant via a virtual switch.
