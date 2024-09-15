@@ -42,7 +42,7 @@ Main Alert Tone 1: 900.3Hz
 Alert Tone 2: 950.5Hz
 ```
 
-For reverence, [this](https://www.youtube.com/watch?v=jWqy05IgQGs) is what it sounds like.
+For reference, [this](https://www.youtube.com/watch?v=jWqy05IgQGs) is what it sounds like.
 
 Once you have this info, this is where the Raspberry Pi, RTL-SDR, and a little python comes in. I used ChatGPT to get this to work flawlessly.
 
