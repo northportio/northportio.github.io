@@ -198,12 +198,12 @@ chmod +x detect_tones.py
 Use the following command to start the script:
 
 ```bash
-rtl_fm -f 460.3625M -M fm -s 22050 -A fast -l 0 -E deemp | python3 detect_tones.py
+rtl_fm -f 483.800M -M fm -s 22050 -A fast -l 0 -E deemp | python3 detect_tones.py
 ```
 
 **Explanation of the `rtl_fm` parameters:**
 
-- `-f 460.3625M`: Sets the frequency to 460.3625 MHz.
+- `-f 483.800M`: Sets the frequency to 483.800 MHz.
 - `-M fm`: Sets the modulation to narrowband FM.
 - `-s 22050`: Sets the sample rate to 22,050 Hz.
 - `-A fast`: Uses fast auto gain control.
